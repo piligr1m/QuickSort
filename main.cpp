@@ -1,6 +1,6 @@
 //
 //  main.cpp
-//  2.4
+//  QuickSort
 //
 //  Created by Stanislav Martynov on 30.12.2020.
 //
